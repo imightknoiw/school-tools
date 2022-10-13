@@ -1,5 +1,8 @@
 # School Tools
 ---
-School Tools are pprovided free to use and distribute.
-If you intend on modifying these tools, please include the original creator 
-([imightknoiw](https://github.com/imightknoiw))
+These are provided free to use.
+If you intend on modifying these tools, please include the [original creator][1].
+
+**[The creator][1] is not responsible for how these tools are used or the people that use them.**
+
+[1]:https://github.com/imightknoiw
