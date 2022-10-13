@@ -1,7 +1,5 @@
 # School Tools
-School tools is a collection of tools used to bypass web censorship, etc.
-
-<a onclick="javascript:alert('fuck off!')" href="#">Click this if your a teacher/school admin</a>
+<a name="description"></a>"School Tools" is a collection of websites and scripts.
 
 <ol>
   <li><a name="1" href="https://sonofa.netlify.app/">about:blank; cloaker</a></li>
