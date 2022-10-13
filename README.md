@@ -1,5 +1,5 @@
 <center>
-# School Tools
+  <h1>School Tools </h1>
 </center>
 ---
 <ol>
