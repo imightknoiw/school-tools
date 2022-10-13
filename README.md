@@ -1,4 +1,6 @@
+<center>
 # School Tools
+</center>
 ---
 <ol>
   <li><a href="https://sonofa.netlify.app/">about:blank; cloaker</a></li>
