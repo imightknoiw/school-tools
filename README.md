@@ -1,11 +1,9 @@
 # <img src="https://i.ibb.co/DDKjf6n/image.png" alt="image" width="70px" height="55px" border="0"></img> School Tools
 <a name="description"></a>"School Tools" is a collection of websites and scripts.
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e9329dea-b751-4bc5-bbb7-bc12b6069b6f/deploy-status)](https://app.netlify.com/sites/schooltools/deploys)
 
-<ol>
-  <li><a name="1" href="https://sonofa.netlify.app/" title="Hides URL as about:blank (for chrome/chromebooks)">about:blank; cloaker</a></li>
-  <li><a name="2" href="" title="Collection of Javascript bookmarks"></a></li>
-</ol>
+[Website][3]
+
+[![Website Status](https://img.shields.io/hsts/preload/schooltools.netlify.app?label=Online%3A&logo=netlify)][3]
 
 These "tools" are provided free to use.
 If you intend on modifying these "tools", please include the [original creators][2].
@@ -22,3 +20,4 @@ return to [top](#school-tools)
 
 [1]:https://github.com/imightknoiw
 [2]:#credits
+[3]:https://schooltools.netlify.app/
