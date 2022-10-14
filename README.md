@@ -4,6 +4,7 @@
 
 <ol>
   <li><a name="1" href="https://sonofa.netlify.app/" title="Hides URL as about:blank (for chrome/chromebooks)">about:blank; cloaker</a></li>
+  <li><a name="2" href="" title="Collection of Javascript bookmarks"></a></li>
 </ol>
 
 These "tools" are provided free to use.
