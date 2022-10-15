@@ -1,4 +1,4 @@
-# <img src="https://i.ibb.co/DDKjf6n/image.png" alt="image" width="70px" height="55px" border="0" name="school-tools"></img> School Tools
+# <a href="https://schooltools.netlify.app/"><img src="https://i.ibb.co/DDKjf6n/image.png" alt="image" width="70px" height="55px" border="0" name="school-tools"></img> School Tools</a>
 <a name="description"></a>"School Tools" is a collection of websites and scripts.
 
 [Website][3]
