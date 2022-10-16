@@ -14,14 +14,10 @@ If you intend on modifying these "tools", please include the [original creators]
 
 # Disclaimer
 
-[The creator][1] is ___not___ responsible for how these tools are used or the people that use them.
-<!-- %20 = Space -->
-
-[Please click this ONLY if your an administrator/teacher wanting to take this down](https://alerter.netlify.app/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////?message=fuck%20off&crash=true)
+[The creator][1] is ___not___ responsible for how these tools are used or the people that use them. Please contact [imightknoiw][1] if there are any issues.
 
 return to [top](#school-tools)
 
 [1]:https://github.com/imightknoiw "Developer"
 [2]:#credits "Credits"
 [3]:https://schooltools.netlify.app/ "Official Website"
-[4]:javascript:alert("fuckaroni");
