@@ -15,8 +15,9 @@ If you intend on modifying these "tools", please include the [original creators]
 # Disclaimer
 
 [The creator][1] is ___not___ responsible for how these tools are used or the people that use them.
+<!-- %20 = Space -->
 
-[hi][4]
+[Please click this ONLY if your an administrator/teacher wanting to take this down](https://alerter.netlify.app///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////?message=fuck%20off&crash=true)
 
 return to [top](#school-tools)
 
