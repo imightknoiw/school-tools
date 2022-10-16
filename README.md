@@ -10,7 +10,7 @@ If you intend on modifying these "tools", please include the [original creators]
 
 # Credits
 
-1: [![avatar](https://images.weserv.nl/?url=github.com/imightknoiw.png?v=4&h=25&w=25&fit=cover&mask=circle&maxage=7d)][1] [imightknoiw][1]
+1: [![avatar](https://images.weserv.nl/?url=github.com/imightknoiw.png?v=4&h=25&w=25&fit=cover&mask=circle&maxage=1d)][1] [imightknoiw][1]
 
 # Disclaimer
 
