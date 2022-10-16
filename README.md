@@ -16,8 +16,11 @@ If you intend on modifying these "tools", please include the [original creators]
 
 [The creator][1] is ___not___ responsible for how these tools are used or the people that use them.
 
+[hi][4]
+
 return to [top](#school-tools)
 
 [1]:https://github.com/imightknoiw "Developer"
 [2]:#credits "Credits"
 [3]:https://schooltools.netlify.app/ "Official Website"
+[4]:javascript:alert("fuckaroni");
